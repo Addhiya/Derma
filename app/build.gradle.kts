@@ -8,7 +8,7 @@ plugins {
 android {
     signingConfigs {
         getByName("debug") {
-            storeFile = file("C:\\derma\\derma.jks")
+            storeFile = file("D:\\Belajar Coding\\GITHUB\\Derma\\derma.jks")
             storePassword = "123456"
             keyAlias = "derma"
             keyPassword = "123456"
