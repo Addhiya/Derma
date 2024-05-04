@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216800469013",
+    "project_id": "derma-ea294",
+    "storage_bucket": "derma-ea294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216800469013:android:3d0c9e1b1a57158f1dee1c",
+        "android_client_info": {
+          "package_name": "com.firebase.derma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216800469013-r0j217ktod0h5o0ub4s9ae3g3ic645mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.derma",
+            "certificate_hash": "5fe967cd04834f1f882b5c22f84f7e70410fe146"
+          }
+        },
+        {
+          "client_id": "216800469013-176tg6v9u8d3mc1n0rbvq9k1d114enfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1qAq9cb6MV8Ty_bzr8L5CGycQtbnbNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216800469013-176tg6v9u8d3mc1n0rbvq9k1d114enfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
