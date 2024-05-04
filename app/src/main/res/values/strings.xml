@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Derma</string>
+    <string name="permission_storage_rationale">Aplikasi ini memerlukan akses ke penyimpanan untuk memilih foto dari galeri.</string>
 </resources>
